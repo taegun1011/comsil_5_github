@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("First output in master\n");
+    printf("First output in branch1\n");
     
     printf("Second output in master\n");
     
