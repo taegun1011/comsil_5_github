@@ -6,7 +6,7 @@ int main()
     
     printf("Second output in master\n");
     
-    printf("Third output in master\n");
+    printf("Third output in branch3\n");
     
     return 0;
 }
