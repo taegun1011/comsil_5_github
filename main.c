@@ -2,6 +2,11 @@
 
 int main()
 {
-    printf("Hello, World!");
+    printf("First output in master\n");
+    
+    printf("Second output in master\n");
+    
+    printf("Third output in master\n");
+    
     return 0;
 }
